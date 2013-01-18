@@ -26,10 +26,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
-     inkscape:cx="189.33382"
-     inkscape:cy="552.31271"
+     inkscape:cx="92.905247"
+     inkscape:cy="644.51192"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="showbox1"
      showgrid="false"
      inkscape:window-width="1280"
      inkscape:window-height="936"
@@ -173,24 +173,6 @@
          id="image4285"
          x="84.863022"
          y="337.17419" />
-      <text
-         transform="scale(2.0383711,0.4905878)"
-         sodipodi:linespacing="50%"
-         id="text3009"
-         y="792.90308"
-         x="29.506554"
-         style="font-size:44.21989059px;font-style:normal;font-weight:normal;line-height:50%;letter-spacing:0px;word-spacing:0px;writing-mode:tb-rl;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-         xml:space="preserve"><tspan
-           y="29.506554"
-           x="792.90308"
-           style="font-size:17.68795586px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:50%;writing-mode:tb-rl;text-anchor:start;font-family:WenQuanYi Zen Hei;-inkscape-font-specification:WenQuanYi Zen Hei Medium"
-           id="tspan3013"
-           sodipodi:role="line">test test </tspan><tspan
-           y="20.662575"
-           x="792.90308"
-           id="tspan3021"
-           style="font-size:17.68795586px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:50%;writing-mode:tb-rl;text-anchor:start;font-family:WenQuanYi Zen Hei;-inkscape-font-specification:WenQuanYi Zen Hei Medium"
-           sodipodi:role="line">test test test</tspan></text>
       <g
          id="g3039">
         <rect
@@ -215,6 +197,18 @@
              y="372.52951"
              style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;font-family:Sans;-inkscape-font-specification:Sans">01</tspan></text>
       </g>
+      <text
+         id="text3112"
+         x="21.428572"
+         y="445.71429"
+         glyph-orientation-horizontal="90"
+         writing-mode="tb"
+         style="writing-mode:tb;-inkscape-font-specification:WenQuanYi Zen Hei Medium;font-family:WenQuanYi Zen Hei;font-weight:500;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12px;text-anchor:start;text-align:start;line-height:125%"
+         sodipodi:linespacing="125%">
+        <tspan
+           sodipodi:role="line"
+           id="tspan3045">abcde你 好 啊</tspan>
+      </text>
     </g>
     <g
        style="display:inline"

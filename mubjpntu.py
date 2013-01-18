@@ -13,14 +13,16 @@ def usage():
 
 def main():
     argc = len(sys.argv)
+    for i in sys.argv:
+        i = i.decode("gb2312")
     if argc < 5 or \
-            len(sys.argv[1].decode("utf-8")) > 13 or \
-            len(sys.argv[2].decode("utf-8")) > 60:
+            len(sys.argv[1]) > 13 or \
+            len(sys.argv[2]) > 60:
         usage()
         sys.exit(1)
     
-    title = sys.argv[1].decode("utf-8")
-    desc = sys.argv[2].decode("utf-8")
+    title = sys.argv[1]
+    desc = sys.argv[2]
     bigpic = sys.argv[3]
     pic = sys.argv[4:]
     while len(pic) < 5:

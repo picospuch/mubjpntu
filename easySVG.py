@@ -5,6 +5,7 @@
 from xml.dom import minidom
 import __builtin__
 import cairo
+import codecs
 import rsvg
 
 def open(filename = None):
@@ -22,7 +23,8 @@ def open(filename = None):
 
 def save(doc, filename):
     """save a DOM doc to a xml file."""
-    f = __builtin__.open(filename, "wb")
+    f = codecs.open(filename, "wb", "utf-8")
+    print f.encoding
     doc.writexml(f)
     f.close()
 
