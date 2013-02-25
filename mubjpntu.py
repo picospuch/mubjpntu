@@ -6,11 +6,6 @@ import easySVG as es
 import sys
 from xml.dom import minidom
 
-def usage():
-    print sys.argv
-    print sys.argv[0] + " title desc bigpic pic1 pic2 pic3 pic4 pic5"
-    print "nb: title must be less than 13 chars and desc must be less than 60 chars."
-
 def main():
     argc = len(sys.argv)
     for i in sys.argv:
