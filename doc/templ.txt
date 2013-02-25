@@ -1,0 +1,41 @@
+
+A template is cast with 2 part type, 8 parts, described as below:
+
+[part type]
+TextBox: only contains 1 string type attribute, called text.
+ImageBox: contains 1 string type attribute, called text, and 1 base64 string type attribute carry image data, called image.
+
+[title]
+id: title
+type: TextBox
+limit: 13 unicode chars
+
+[description]
+id: desc
+type: TextBox
+limit 4 * 15 unicode chars
+
+[big showcase]
+id: picbox
+type: ImageBox
+
+[small showcase 1]
+id: showbox1
+type: ImageBox
+
+[small showcase 2]
+id: showbox2
+type: ImageBox
+
+[small showcase 3]
+id: showbox3
+type: ImageBox
+
+[small showcase 4]
+id: showbox4
+type: ImageBox
+
+[small showcase 5]
+id: showbox5
+type: ImageBox
+
