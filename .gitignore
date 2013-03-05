@@ -1,5 +1,7 @@
 material/
 output/
+cache/
+trash/
 *.pyc
 *.swp
 pTodo

@@ -11,3 +11,4 @@ soaplib 1.0
 bugs:
 rsvg doesn't support vertical word lines
 inkscap chinese input method support bugs
+Web Service Studio unsupport Chinese

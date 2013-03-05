@@ -51,7 +51,8 @@ class Template(object):
         eDesc = sd.getElementById("desc")
         tspans = eDesc.getElementsByTagName("tspan")
         for i in range(4):
-            astr = desc[(i * 15):((i + 1) * 15)]
+            astr = ds[(i * 15):((i + 1) * 15)]
+            print astr
             tspans[i].firstChild.data = astr
 
     def getShowboxes(self):
@@ -93,9 +94,9 @@ class Template(object):
         for node in nodelist:
             a = node.getAttribute("plid")
             if a == "cost":
-                node.getElementsByTagName("tspan")[0].firstChild.data = cost
+                node.getElementsByTagName("tspan")[0].firstChild.data = str(cost)
             elif a == "sale":
-                node.getElementsByTagName("tspan")[0].firstChild.data = sale
+                node.getElementsByTagName("tspan")[0].firstChild.data = str(sale)
             elif a == "name":
                 crumbs = node.getElementsByTagName("tspan")
                 for i in range(nameLen):
