@@ -39,3 +39,14 @@ type: ImageBox
 id: showbox5
 type: ImageBox
 
+[showcase's changeable part]
+plid is a local id, unique between childnodes below the same parent node.
+plid: cost
+cost of a good
+plid: sale
+cost of a sale
+plid: name
+	name length is 9
+name of a good
+<image />
+

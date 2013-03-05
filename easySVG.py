@@ -24,7 +24,7 @@ def open(filename = None):
 def save(doc, filename):
     """save a DOM doc to a xml file."""
     f = codecs.open(filename, "wb", "utf-8")
-    print f.encoding
+    # print f.encoding
     doc.writexml(f)
     f.close()
 

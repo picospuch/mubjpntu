@@ -1,0 +1,13 @@
+requirements:
+pycairo 1.8.10
+pygtk 2.24.2
+web.py 0.37
+lxml 3.1
+soaplib 1.0
+----lxml
+----pytz
+----WSGI
+
+bugs:
+rsvg doesn't support vertical word lines
+inkscap chinese input method support bugs
