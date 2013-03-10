@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="1.svg">
+   sodipodi:docname="2.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -25,14 +25,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4"
-     inkscape:cx="457.81565"
-     inkscape:cy="737.51788"
+     inkscape:zoom="0.7"
+     inkscape:cx="229.35429"
+     inkscape:cy="414.5758"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1440"
-     inkscape:window-height="839"
+     inkscape:window-width="1366"
+     inkscape:window-height="707"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
@@ -91,7 +91,7 @@
        id="guide3054" />
     <sodipodi:guide
        orientation="0,1"
-       position="360,482.14286"
+       position="565.71429,511.42857"
        id="guide3049" />
   </sodipodi:namedview>
   <metadata
@@ -102,7 +102,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -144,47 +144,47 @@
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="34.264679"
-       y="246.8517"
+       x="345.69324"
+       y="922.56598"
        id="title"
        sodipodi:linespacing="100%"
        inkscape:label="#text2985"><tspan
          sodipodi:role="line"
          id="tspan2987"
-         x="34.264679"
-         y="246.8517"
+         x="345.69324"
+         y="922.56598"
          style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;font-family:Microsoft YaHei;-inkscape-font-specification:Microsoft YaHei">乐天派: 世界末日一定好玩 !</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="34.632343"
-       y="280.28494"
+       x="348.91806"
+       y="963.14209"
        id="desc"
        sodipodi:linespacing="100%"
        inkscape:label="#text2989"><tspan
          sodipodi:role="line"
-         x="34.632343"
-         y="280.28494"
+         x="348.91806"
+         y="963.14209"
          style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;font-family:Microsoft YaHei;-inkscape-font-specification:Microsoft YaHei"
          id="line1">       宗教语言与神话中的世界末日</tspan><tspan
          sodipodi:role="line"
-         x="34.632343"
-         y="298.28494"
+         x="348.91806"
+         y="981.14209"
          style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;font-family:Microsoft YaHei;-inkscape-font-specification:Microsoft YaHei"
          id="line2">，主要是指地球文明的终结。但是</tspan><tspan
          sodipodi:role="line"
-         x="34.632343"
-         y="316.28494"
+         x="348.91806"
+         y="999.14209"
          style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;font-family:Microsoft YaHei;-inkscape-font-specification:Microsoft YaHei"
          id="line3">科学上所谓的世界末日，是指宇宙</tspan><tspan
          sodipodi:role="line"
-         x="34.632343"
-         y="334.28494"
+         x="348.91806"
+         y="1017.1421"
          style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;font-family:Microsoft YaHei;-inkscape-font-specification:Microsoft YaHei"
          id="line4">系统的崩溃或人类社会的灭亡。</tspan></text>
     <image
-       y="230.49953"
-       x="360.12448"
+       y="676.21375"
+       x="27.267326"
        id="picbox"
        xlink:href="file:///home/puch/ws/mubjpntu/material/python.png"
        height="340"
@@ -193,7 +193,7 @@
     <g
        id="showbox1"
        inkscape:label="#g3044"
-       transform="translate(6.4999995,32.707406)">
+       transform="translate(-10.642858,-104.43545)">
       <image
          width="200"
          height="200"
@@ -297,53 +297,53 @@
            x="31.214291"
            y="401.08334"
            style="font-weight:bold;line-height:100.99999905%;-inkscape-font-specification:Microsoft YaHei Bold"
-           id="tspan3070">口</tspan><tspan
+           id="tspan3088">一</tspan><tspan
            sodipodi:role="line"
            x="31.214291"
            y="417.24335"
            style="font-weight:bold;line-height:100.99999905%;-inkscape-font-specification:Microsoft YaHei Bold"
-           id="tspan3074">口</tspan><tspan
+           id="tspan3153">而</tspan><tspan
            sodipodi:role="line"
            x="31.214291"
            y="433.40335"
            style="font-weight:bold;line-height:100.99999905%;-inkscape-font-specification:Microsoft YaHei Bold"
-           id="tspan3076">口</tspan><tspan
+           id="tspan3155">三</tspan><tspan
            sodipodi:role="line"
            x="31.214291"
            y="449.56335"
            style="font-weight:bold;line-height:100.99999905%;-inkscape-font-specification:Microsoft YaHei Bold"
-           id="tspan3078">口</tspan><tspan
+           id="tspan3157">四</tspan><tspan
            sodipodi:role="line"
            x="31.214291"
            y="465.72333"
            style="font-weight:bold;line-height:100.99999905%;-inkscape-font-specification:Microsoft YaHei Bold"
-           id="tspan3080">口</tspan><tspan
+           id="tspan3159">吴</tspan><tspan
            sodipodi:role="line"
            x="31.214291"
            y="481.88333"
            style="font-weight:bold;line-height:100.99999905%;-inkscape-font-specification:Microsoft YaHei Bold"
-           id="tspan3082">口</tspan><tspan
+           id="tspan3161">刘</tspan><tspan
            sodipodi:role="line"
            x="31.214291"
            y="498.04333"
            style="font-weight:bold;line-height:100.99999905%;-inkscape-font-specification:Microsoft YaHei Bold"
-           id="tspan3084">口</tspan><tspan
+           id="tspan3163">器</tspan><tspan
            sodipodi:role="line"
            x="31.214291"
            y="514.20337"
            style="font-weight:bold;line-height:100.99999905%;-inkscape-font-specification:Microsoft YaHei Bold"
-           id="tspan3086">口</tspan><tspan
+           id="tspan3165">吧</tspan><tspan
            sodipodi:role="line"
            x="31.214291"
            y="530.36334"
            style="font-weight:bold;line-height:100.99999905%;-inkscape-font-specification:Microsoft YaHei Bold"
-           id="tspan3088">口</tspan></text>
+           id="tspan3167">就</tspan></text>
     </g>
     <g
        style="display:inline"
        id="showbox2"
        inkscape:label="#g3044"
-       transform="translate(5.9767548,260.61657)">
+       transform="translate(334.54818,-100.812)">
       <image
          width="200"
          height="200"
@@ -493,7 +493,7 @@
        style="display:inline"
        id="showbox3"
        inkscape:label="#g3044"
-       transform="translate(331.97671,260.75941)">
+       transform="translate(-12.309007,116.4737)">
       <image
          width="200"
          height="200"
@@ -643,7 +643,7 @@
        style="display:inline"
        id="showbox4"
        inkscape:label="#g3044"
-       transform="translate(5.9767557,488.90227)">
+       transform="translate(344.54818,230.33085)">
       <image
          width="200"
          height="200"
@@ -793,7 +793,7 @@
        style="display:inline"
        id="showbox5"
        inkscape:label="#g3044"
-       transform="translate(331.83383,488.90227)">
+       transform="translate(464.69098,56.045131)">
       <image
          width="200"
          height="200"
